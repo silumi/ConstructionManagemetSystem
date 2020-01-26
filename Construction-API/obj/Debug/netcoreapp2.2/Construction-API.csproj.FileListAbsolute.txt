@@ -1,0 +1,14 @@
+C:\Users\ASUS\Project-construction\Construction-API\bin\Debug\netcoreapp2.2\Construction-API.deps.json
+C:\Users\ASUS\Project-construction\Construction-API\bin\Debug\netcoreapp2.2\Construction-API.runtimeconfig.json
+C:\Users\ASUS\Project-construction\Construction-API\bin\Debug\netcoreapp2.2\Construction-API.runtimeconfig.dev.json
+C:\Users\ASUS\Project-construction\Construction-API\bin\Debug\netcoreapp2.2\Construction-API.dll
+C:\Users\ASUS\Project-construction\Construction-API\bin\Debug\netcoreapp2.2\Construction-API.pdb
+C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.csprojAssemblyReference.cache
+C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.RazorAssemblyInfo.cache
+C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.RazorAssemblyInfo.cs
+C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.AssemblyInfoInputs.cache
+C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.AssemblyInfo.cs
+C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.dll
+C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.pdb
