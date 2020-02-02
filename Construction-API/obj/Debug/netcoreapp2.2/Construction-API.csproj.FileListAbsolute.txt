@@ -4,7 +4,6 @@ C:\Users\ASUS\Project-construction\Construction-API\bin\Debug\netcoreapp2.2\Cons
 C:\Users\ASUS\Project-construction\Construction-API\bin\Debug\netcoreapp2.2\Construction-API.dll
 C:\Users\ASUS\Project-construction\Construction-API\bin\Debug\netcoreapp2.2\Construction-API.pdb
 C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.csprojAssemblyReference.cache
-C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.RazorAssemblyInfo.cache
 C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.RazorAssemblyInfo.cs
 C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.AssemblyInfoInputs.cache
@@ -12,3 +11,6 @@ C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Cons
 C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.RazorTargetAssemblyInfo.cache
 C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.dll
 C:\Users\ASUS\Project-construction\Construction-API\obj\Debug\netcoreapp2.2\Construction-API.pdb
+C:\Users\ASUS\Project-construction\construction-API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASUS\Project-construction\construction-API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASUS\Project-construction\construction-API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
