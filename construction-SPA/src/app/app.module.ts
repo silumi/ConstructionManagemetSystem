@@ -1,3 +1,4 @@
+import { CardsComponent } from './dashboard/cards/cards.component';
 import { AlertifyService } from './services/alertify.service';
 import { ErrorInterceptor } from './services/Error-Intercepter';
 import { RouterModule } from '@angular/router';
@@ -17,6 +18,10 @@ import { AuthGuard } from './_guards/auth.guard';
 import { BsDropdownModule } from 'ngx-bootstrap';
 import { LoginComponent } from './login/login.component';
 import { SideNavComponent } from './dashboard/side-nav/side-nav.component';
+import {TopNavComponent } from './dashboard/top-nav/top-nav.component';
+import { SmallCardsComponent } from './dashboard/small-cards/small-cards.component';
+import { SearchbarNavComponent } from './dashboard/searchbar-nav/searchbar-nav.component';
+
 
 @NgModule({
   declarations: [
@@ -27,7 +32,11 @@ import { SideNavComponent } from './dashboard/side-nav/side-nav.component';
     ProfileComponent,
     DashboardComponent,
     LoginComponent,
-    SideNavComponent
+    SideNavComponent,
+    TopNavComponent,
+    CardsComponent,
+    SmallCardsComponent,
+    SearchbarNavComponent
   ],
   imports: [
     BrowserModule,
